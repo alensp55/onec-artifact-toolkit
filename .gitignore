@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.egg-info/
+dist/
+build/
+*.epf
+*.erf
+*.log
+*.manifest.json

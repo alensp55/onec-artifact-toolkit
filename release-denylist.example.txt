@@ -1,0 +1,4 @@
+# One forbidden fragment per line. Matching is case-insensitive.
+internal.example
+production_database
+customer_name
